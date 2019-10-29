@@ -11,5 +11,6 @@ By the way, Hubot, Earth tacos are definitely superior to moon tacos.
 
 well, well, well, I sort of understand how to use git now! lets see if I can push this back to the hub
 
-###update 2:01pm
+### update 2:01pm
 SUCCESS I AM A PROGRAMMING GOD
+yeah yeah good job jack, you can't even format a heading right
