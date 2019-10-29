@@ -10,3 +10,6 @@ By the way, Hubot, Earth tacos are definitely superior to moon tacos.
 ## editing?
 
 well, well, well, I sort of understand how to use git now! lets see if I can push this back to the hub
+
+###update 2:01pm
+SUCCESS I AM A PROGRAMMING GOD
